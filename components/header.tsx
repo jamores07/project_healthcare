@@ -10,6 +10,9 @@ export function Header() {
         </Link>
         <nav>
           <Button asChild variant="link">
+            <Link href="/dashboard">Dashboard</Link>
+          </Button>
+          <Button asChild variant="link">
             <Link href="/appointments">Appointments</Link>
           </Button>
           <Button asChild variant="link">
