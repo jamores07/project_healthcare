@@ -1,6 +1,6 @@
 import { z } from "zod";
 
-// This file will contain Zod schemas for form validation.
+// Patient Registration Validation
 export const patientSchema = z.object({
   name: z.string().min(2, "Name must be at least 2 characters"),
   email: z.string().email("Invalid email address"),
@@ -19,3 +19,14 @@ export const patientSchema = z.object({
 });
 
 export type PatientFormValues = z.infer<typeof patientSchema>;
+
+// Date picker Validation
+export const appointmentSchema = z.object({
+    patientId: z.string(),
+    doctorId: z.string(),
+    date: z.date(),
+    time: z.string(),
+    reason: z.string().min(5, "Reason must be at least 5 characters"),
+  });
+  
+export type AppointmentFormValues = z.infer<typeof appointmentSchema>;
