@@ -9,6 +9,8 @@ const Home = ({ searchParams }: SearchParamProps) => {
 
   return (
     <div className="flex h-screen max-h-screen">
+      
+      { /* OTP Verification | Passkey Modal */ }
       {isAdmin && <PasskeyModal />}
 
       <section className="remove-scrollbar container my-auto">
