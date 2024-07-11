@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-    <a href="project-healthcare.vercel.app" target="_blank">
+    <a href="https://project-healthcare.vercel.app" target="_blank">
       <img src="https://github.com/jamores07/project_healthcare/assets/126208216/82b86824-d569-4c0a-a7e6-bf12baaf1fee">
     </a>
   <br />
@@ -23,8 +23,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
 
 ## <a name="introduction">Introduction</a>
 
