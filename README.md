@@ -2,8 +2,8 @@
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/lEflo_sc82g?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/healthcare/assets/151519281/a7dd73b6-93de-484d-84e0-e7f4e299167b" alt="Project Banner">
+    <a href="project-healthcare.vercel.app" target="_blank">
+      <img src="https://github.com/jamores07/project_healthcare/assets/126208216/82b86824-d569-4c0a-a7e6-bf12baaf1fee">
     </a>
   <br />
 
